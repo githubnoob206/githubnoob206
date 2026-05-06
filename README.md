@@ -1,7 +1,7 @@
 <h1 align="center">Tayshuwn Ricketts</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Xj53CppN6OcAAAAd/canada-flag.gif" width="60%" />
+  <img src="https://media1.tenor.com/m/KnaHDq6iy3wAAAAd/iihf-dillon-dube.gif" />
 </p>
 
 <p align="center">
