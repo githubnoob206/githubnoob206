@@ -12,7 +12,7 @@
 
 ## About Me
 
-Engineering graduate focused on IT support, networking, and data analytics. Experienced in OCR systems, automation workflows, and data-driven applications. Strong foundation in troubleshooting, backend logic, and system-level problem solving. R&D Intern at Nokia from NOV 2025 - JAN 2026.
+Future Electrical Engineer, currently in high school, no major achievements yet. Trying to learn more coding languages, get comfy with github, and learn more. Always open to receiving advice, support, feedback, and questions at ANY time
 
 ---
 
