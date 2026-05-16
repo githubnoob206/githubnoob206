@@ -87,14 +87,6 @@ Future Electrical Engineer, currently in high school, no major achievements yet.
 
 ---
 
-## Top Languages
-
-<p align="center">
-  <img src="top-languages.svg" width="48%" />
-</p>
-
----
-
 ## Achievements
 
 <p align="center">
@@ -120,11 +112,11 @@ Future Electrical Engineer, currently in high school, no major achievements yet.
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ibrahim-j2025/">
+  <a href="https://www.linkedin.com/in/tayshuwn-ricketts">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:mohamedibrahim20207191@gmail.com">
+  <a href="mailto:tshuwnricketts22@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </p>
