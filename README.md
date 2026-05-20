@@ -14,6 +14,7 @@
 ## 🧠 My Focus Areas
 - 💻 Web Development
 - 🔨 Android App Development
+- 🔌 Learning Arduino
 
 
 ## 📊 GitHub Stats & Trophies
