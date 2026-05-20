@@ -41,6 +41,8 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
   <img src="chatgpt.svg" width="40" />
+  <img src="claude-color.svg" width="40" />
+  <img src="gemini-color.svg" width="40" />
 </p>
 
 <p align="center">
