@@ -23,14 +23,11 @@ Future Electrical Engineer, currently in high school, no major achievements yet.
   <img src="https://skillicons.dev/icons?i=python,vscode,arduino" />
 </p>
 
-### AI and Machine Learning
+### AI Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="emoji.svg" />
-  <img src="https://www.bombaysoftwares.com/_next/image?url=https%3A%2F%2Fbs-cms-media-prod.s3.ap-south-1.amazonaws.com%2Fk_means_clustering_ee7e8c3bde.jpg&w=3840&q=75" width=5%/>
-  <img src="xgboost.svg" />
-  <img src="opencv.svg" />
-  <img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzebm31b0hgls6vbamjuu.png" width=5% />
+  <img src="openai.svg" />
+  <img src="claude-color.svg" />
+  <img src="gemini-color.svg" />
 </p>
 
 ### Python Libraries
