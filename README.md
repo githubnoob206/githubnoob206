@@ -25,7 +25,7 @@ Future Electrical Engineer, currently in high school, no major achievements yet.
 
 ### AI Tools
 <p>
-  <img src="openai.svg" />
+  <img src="chatgpt.svg" />
   <img src="claude-color.svg" />
   <img src="gemini-color.svg" />
 </p>
