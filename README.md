@@ -20,7 +20,7 @@ Future Electrical Engineer, currently in high school, no major achievements yet.
 
 ### Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,HTML5,CSS" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,arduino" />
 </p>
 
 ### AI and Machine Learning
